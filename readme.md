@@ -6,12 +6,13 @@ The website is built with the concept of Model–View–Controller (MVC) design 
 
 
 ## Welcome Page
-<p><img src="https://salakri.s3.amazonaws.com/Snickr_welcomepage.png"></p>
+![Index](https://github.com/Salakri/Snickr/blob/master/pics/Snickr_welcomepage.png) 
 
 
 ## Home Page
-<p><img src="https://salakri.s3.amazonaws.com/Snickr_homepage.png"></p>
+![Home](https://github.com/Salakri/Snickr/blob/master/pics/Snickr_homepage.png) 
 
 
 ## Navigation Bar
-<p><img src="https://salakri.s3.amazonaws.com/Snickr_NavigationBar.png"></p>
+![NavigationBar](https://github.com/Salakri/Snickr/blob/master/pics/Snickr_NavigationBar.png) 
+
